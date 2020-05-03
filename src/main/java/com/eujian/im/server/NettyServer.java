@@ -63,6 +63,4 @@ public class NettyServer {
     public static void main(String[] args) throws InterruptedException {
         new NettyServer(10086);
     }
-
-
 }
